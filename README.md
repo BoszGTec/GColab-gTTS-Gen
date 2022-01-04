@@ -2,4 +2,4 @@
 
 
 เครื่องมือสำหรับสร้างเสียงสังเคราะห์โดยใช้ Google Text To Speech ใช้ได้บนGoogle Colab
-![image](https://user-images.githubusercontent.com/95701554/147241666-8b8d3650-4e84-4983-8ca3-072e3266fc88.png)
+![image](https://raw.githubusercontent.com/BoszGTec/GColab-gTTS-Gen/main/screenshot/screenshot.jpeg)
